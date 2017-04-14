@@ -9,4 +9,4 @@ Open registry with Regedit, and create the following key:
 * data: python [location of .py]
 
 I put mine in the local appdata folder %localappdata% variable in recent (>7) versions of windows, so my data looks like:
-* python "%localappdata%\PyScripts\news_python3.py"
+* python "%localappdata%\PyScripts\news.py"
