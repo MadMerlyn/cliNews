@@ -1,8 +1,5 @@
-This python script scrapes the stories within "Top Stories" section of the google news page, and after parsing them, prints out the headlines alongwith a brief description of each headline. There could be multiple uses of this, but the way I used it was to put this script into my bashrc, so that at every new launch of the terminal, I get the latest news :)
+This python script scrapes the stories within "Top Stories" section of the google news page, and after parsing them, prints out the headlines alongwith a brief description of each headline.
 
-Further refinements coming. Stay tuned!
-
-UPDATE from MadMerlyn:
 If you'd like to run this script automatically whenever you open a command prompt on windows, you can do the following:
 Open registry with Regedit, and create the following key:
 
